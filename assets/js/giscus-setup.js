@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "halab1t/Melliora-Mentis-Site",
+    "data-repo": "halab1t/halab1t.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
