@@ -6,31 +6,31 @@
 @use "sass:color";
 
 // Colors
-$red-color: #ff3636 !default;
-$red-color-dark: #b71c1c !default;
-$orange-color: #f29105 !default;
-$blue-color: #0076df !default;
-$blue-color-dark: #00369f !default;
-$cyan-color: #2698ba !default;
-$light-cyan-color: color.adjust($cyan-color, $lightness: 25%);
-$green-color: #00ab37 !default;
-$green-color-lime: #b7d12a !default;
-$green-color-dark: #009f06 !default;
-$green-color-light: #ddffdd !default;
-$green-color-bright: #11d68b !default;
-$purple-color: #b509ac !default;
-$light-purple-color: color.adjust($purple-color, $lightness: 25%);
-$pink-color: #f92080 !default;
-$pink-color-light: #ffdddd !default;
-$yellow-color: #efcc00 !default;
+$red-color: #BA3B46 !default; 
+$red-color-dark: #b71c1c !default; //change
+$orange-color: #f29105 !default; // change
+$blue-color: #78BEE6 !default;
+$blue-color-dark: #00369f !default; // change
+$cyan-color: #2698ba !default; // change
+$light-cyan-color: color.adjust($cyan-color, $lightness: 25%); // ?
+$green-color: #00ab37 !default; //change
+$green-color-lime: #b7d12a !default; //change
+$green-color-dark: #009f06 !default; // change
+$green-color-light: #ddffdd !default; // change
+$green-color-bright: #11d68b !default; // change
+$purple-color: #b509ac !default; //change
+$light-purple-color: color.adjust($purple-color, $lightness: 25%); // change
+$pink-color: #f92080 !default; // change
+$pink-color-light: #ffdddd !default; // change
+$yellow-color: #EFBF44 !default;
 
-$grey-color: #828282 !default;
+$grey-color: #272D2D !default;
 $grey-color-light: color.adjust($grey-color, $lightness: 40%);
-$grey-color-dark: #1c1c1d;
-$grey-900: #212529;
+$grey-color-dark: #1c1c1d; // change ?
+$grey-900: #212529; // change ?
 
-$white-color: #ffffff !default;
-$black-color: #000000 !default;
+$white-color: #F6EDDB !default;
+$black-color: #272D2D !default; // same as grey color not sure if problematic
 
 // Theme colors
 
